@@ -1,3 +1,3 @@
 Gry stworzone z użyciem C# (Unity) były tworzone zespołowo, dlatego (z racji na brak pewności co do autora danego skryptu) postanowiłem nie zamieszczać ich kodu źródłowego. Mogę natomiast wspomnieć, że programowałem między innymi: system "stawiania", zarządzania i ulepszania budynków, UI, logikę flow gry, zarządzanie surowcami, logikę leveli/scen, obsługę klawiatury/myszy i akcji przez nie wykonywanych, system powiadomień, zmienianie materiałów/shaderów, struktury danych, system umiejętności postaci.
 
-Gra pt. The Bloom jest ciągle w fazie rozwoju.
+Gra pt. The Bloom jest ciągle w fazie rozwoju, a gra z Łódzkiego Game Jamu 7 jest dużo ciekawsza w jej drugiej połowie.
